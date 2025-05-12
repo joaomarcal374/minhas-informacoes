@@ -1,0 +1,19 @@
+<body>
+  <img src="img/avatar-perfil.png" alt="avatar de João" srcset="" />
+  <p>Eu sou João vitor_</p>
+  <h1>aprendiz de mecanico e futuro mecanico de moto em parceria.</h1>
+  <p>
+    Sou aprendiz  de mecânico de moto. aprendo com meu pai em sua oficina de moto.
+  </p>
+  <p>Minhas habilidades</p>
+</body>
+<body>
+    <!-- código omitido -->
+    <p>Minhas habilidades</p>
+    <div>
+      <p>mecanica simples</p>
+      <p>troca de reparos</p>
+      <p>lavagens simples em motores</p>
+      <p>troca de carenagens</p>
+    </div>
+  </body>
